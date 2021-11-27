@@ -1,0 +1,45 @@
+body{
+    background-color:#EEEEEE;
+    font-family:sans-serif;
+}
+#title{
+    text-align:center;
+}
+#main p{
+    text-align:center;
+}
+#image{
+    margin-bottom:20px;
+}
+#img-div{
+    padding-top:40px;
+    padding-left:180px;
+    background-color:#FFFFFF;
+}
+#img-caption{
+    padding-bottom:30px;
+    margin-right:190px;
+}
+#title2{
+    text-align:center;
+    padding-top:20px;
+    padding-bottom:60px;
+}
+ul{
+    margin-left:350px;
+}
+ul li{
+    margin-top:30px;
+    margin-bottom:30px;
+}
+#quote{
+    margin-top:60px;
+    display:block;
+    text-align:center;
+}
+#tribute-info p a{
+    color:rgb(33, 151, 224);
+}
+#tribute-info p a:hover{
+    color:crimson;
+}
